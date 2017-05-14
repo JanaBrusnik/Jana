@@ -1,0 +1,68 @@
+*{
+	background-color: beige;
+	font-family: Arial;
+}
+
+h4{
+	margin-bottom: 5px;
+	margin-top: 10px;
+}
+
+.ph_1{
+	
+	margin: 10px 20px 20px 20px;  
+}
+
+.d_1{
+	margin-top: 100px;
+	float: left;
+	
+}
+
+.or{
+	clear: both;
+	margin: 10px;
+	text-align: center;
+}
+
+.svs{
+	border: 1px solid black;
+	width: 400px;
+	float: left;
+	margin: 5px;
+}
+
+.un{
+	clear: both;
+}
+
+footer {
+	text-align:center;
+}
+
+.form_row{
+	margin: 10px;
+	overflow: hidden;
+}
+
+.form_row input{
+	float: right;
+	height: 20px;
+	line-height: 20px;
+	margin:0px;
+	padding: 0px 5 px;
+	width: 300px;
+	border: 1px solid black;
+}
+
+.cont-form{
+	margin: 0 auto;
+	width: 400px;
+}
+
+.form_row textarea{
+	width: 400px;
+	height: 35px;
+	padding: 5px;
+	line-height: 10px;
+}
